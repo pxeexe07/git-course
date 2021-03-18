@@ -1,3 +1,3 @@
-# git adn GitHub COURSE
+# read me before changing this repository
 
-crash course for git
+ABZ RASH GOW
